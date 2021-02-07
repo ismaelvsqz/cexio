@@ -42,3 +42,7 @@ The following example shows two calls. One is private and the other is public.
 
         fmt.Printf("%s\n", resp)
     }
+
+# License
+
+Copyright 2021 Juan Ismael Vasquez <ismael.juan@gmail.com>. All rights reserved. Use of this source code is governed by a MIT style license that can be found in the LICENSE file.
